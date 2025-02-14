@@ -16,4 +16,4 @@ We have proposed a new large scale dataset for object recognition in an image th
 | ViT+mBERT          | 6                  | 32.56    | 0.4697     | 0.2782          |
 
 
-Codes and associated datasets will be updated soon
+Codes and associated datasets will be updated after the review process is completed
